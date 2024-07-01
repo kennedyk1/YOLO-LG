@@ -1,0 +1,7 @@
+path: 'D:\Yolov5\inhouse'
+train: 'train\rgbd\images'
+val: 'test\rgbd\images'
+ 
+# class names
+names: 
+  0: 'human'

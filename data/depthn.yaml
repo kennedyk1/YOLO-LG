@@ -1,0 +1,7 @@
+path: '/home/kmota/Conference/inhouse'
+train: 'train/depthn/images'
+val: 'test/depthn/images'
+ 
+# class names
+names: 
+  0: 'human'

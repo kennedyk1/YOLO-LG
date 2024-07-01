@@ -1,0 +1,7 @@
+path: '/home/kmota/Conference/inhouse'
+train: 'train/thermal/images'
+val: 'test/thermal/images'
+ 
+# class names
+names: 
+  0: 'human'
